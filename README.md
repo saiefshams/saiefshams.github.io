@@ -4,3 +4,4 @@
 # Color Gradient from cssgradient.io/gradient-backgrounds/
 # Fonts taken from google fonts
 # Icons used from FontAwesome
+# Responsive navbar from www.w3schools.com/howto/howto_js_topnav_responsive.asp
