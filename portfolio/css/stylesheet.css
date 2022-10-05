@@ -7,7 +7,7 @@
 }
 body
 {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 .wrapper
 {
@@ -225,13 +225,13 @@ span
         grid-gap: 2rem;
         transition: .3s;
         grid-template-columns: 1fr;
-        
+        order: 2;
     }
-    .about-desc h1
+    .about-sec h1
     {
         font-size: 40px;
     }
-    .about-desc p
+    .about-sec p
     {
         margin-bottom: 3rem;
     }
